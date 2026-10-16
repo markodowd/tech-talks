@@ -1,5 +1,7 @@
 # Tech Talks
 
+![Presenting "Add A Spark To Your Data Manipulation"](assets/talk.webp)
+
 | Date | Talk |
 | --- | --- |
 | 29 Aug 2026 | [AI Skills: What They Are and How to Create Your Own](2026-08-29-ai-skills) |
